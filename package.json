@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^4.0.2"
+    "cypress": "^4.0.2",
+    "junit": "^1.4.9"
   }
 }

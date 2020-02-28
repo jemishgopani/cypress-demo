@@ -1,3 +1,7 @@
 {
-  "baseUrl": "https://opensource-demo.orangehrmlive.com/"
+  "baseUrl": "https://opensource-demo.orangehrmlive.com/",
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "results/my-test-output.xml"
+  }
 }
