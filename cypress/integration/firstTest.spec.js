@@ -20,4 +20,8 @@ describe('Demo Smoke Test', () => {
            dashboardPage.verifyDashboardPageIsDisplayed(user.username);
         });
     });
+
+    it('test Failure demo', () => {
+        expect(1).eq(2);
+    });
 });
